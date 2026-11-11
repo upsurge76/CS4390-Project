@@ -1,0 +1,8 @@
+**/tracker
+**/peer*/peer
+**/torrents/
+**/peer*/cache/
+**/peer*/shared/*
+*.part
+*.o
+.DS_Store
